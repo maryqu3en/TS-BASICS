@@ -18,3 +18,7 @@ You can create a TypeScript file with a `.ts` extension and write your TypeScrip
 tsc filename.ts
 ```
 This will generate a JavaScript file with the same name as the TypeScript file. You can run the JavaScript file using Node.js.
+
+```bash
+node filename.js
+```
